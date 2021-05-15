@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RecyclerViewExample" parent="Theme.MaterialComponents.Light">
+
+
+        <item name="colorPrimaryDark">#1593A3</item>
+        <item name="colorPrimary">@color/light_blue</item>
+        <item name="android:textColorPrimary">@color/white</item>
+
+
+    </style>
+
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+
+</resources>
